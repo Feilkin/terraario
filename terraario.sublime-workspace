@@ -1,0 +1,1642 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"light_",
+				"light_sources"
+			],
+			[
+				"light_so",
+				"light_sources"
+			],
+			[
+				"light_s",
+				"light_source_count"
+			],
+			[
+				"shadow_",
+				"shadow_map_size"
+			],
+			[
+				"shadow_ma",
+				"shadow_map_pos"
+			],
+			[
+				"shadow",
+				"shadow_shader"
+			],
+			[
+				"clear",
+				"love.graphics.clear"
+			],
+			[
+				"player_",
+				"player_legs_1"
+			],
+			[
+				"item_icons",
+				"item_icons_spritesheet"
+			],
+			[
+				"item_i",
+				"item_icons_batch"
+			],
+			[
+				"offset_",
+				"offset_x"
+			],
+			[
+				"map_",
+				"map_width"
+			],
+			[
+				"poly",
+				"love.graphics.polygon"
+			],
+			[
+				"player_le",
+				"player_legs_1_falling"
+			],
+			[
+				"open_",
+				"open_triange"
+			],
+			[
+				"new_",
+				"new_nearest"
+			],
+			[
+				"collisio",
+				"collision_data"
+			],
+			[
+				"collis",
+				"collision_data"
+			],
+			[
+				"collides",
+				"collides_with"
+			],
+			[
+				"expanded",
+				"expanded_bodies"
+			],
+			[
+				"expa",
+				"expanded"
+			],
+			[
+				"expand",
+				"expanded_bodies"
+			],
+			[
+				"random",
+				"love.math.random"
+			],
+			[
+				"third",
+				"thirdparty"
+			],
+			[
+				"splatter",
+				"splatterLayer"
+			],
+			[
+				"load",
+				"love.filesystem.load"
+			],
+			[
+				"recta",
+				"love.graphics.rectangle"
+			],
+			[
+				"eyeLevel",
+				"eyeLevelStanding"
+			],
+			[
+				"object",
+				"objectHeight"
+			],
+			[
+				"mouseget",
+				"love.mouse.getPosition"
+			],
+			[
+				"func",
+				"function\tfunction"
+			],
+			[
+				"processing",
+				"processingSystems"
+			],
+			[
+				"Bullet",
+				"BulletRenderingSystem"
+			],
+			[
+				"wind",
+				"love.window.getWidth"
+			],
+			[
+				"print",
+				"love.graphics.print"
+			],
+			[
+				"tileIns",
+				"tileInstance"
+			],
+			[
+				"tileI",
+				"tileInstance"
+			],
+			[
+				"tileInstac",
+				"TileInstance"
+			],
+			[
+				"enemy",
+				"enemySprite"
+			],
+			[
+				"mathta",
+				"math.atan2\t(y, x)"
+			],
+			[
+				"prepa",
+				"prepareNavMesh"
+			],
+			[
+				"setc",
+				"love.graphics.setColor"
+			],
+			[
+				"loveline",
+				"love.graphics.line"
+			],
+			[
+				"newfo",
+				"love.graphics.newFont"
+			],
+			[
+				"thid",
+				"thirdparty"
+			],
+			[
+				"thrid",
+				"thirdparty"
+			],
+			[
+				"stock_",
+				"stock_amount"
+			],
+			[
+				"copy_from",
+				"copy_from_apartment"
+			],
+			[
+				"extra",
+				"extra_fields\tstatement"
+			],
+			[
+				"debt_",
+				"debt_free_price"
+			],
+			[
+				"parking_",
+				"parking_space\tstatement"
+			],
+			[
+				"ParkingSpaceC",
+				"ParkingSpaceClientNewQueueView\tclass"
+			],
+			[
+				"ParkingSpaceClient",
+				"ParkingSpaceClientNewView\tclass"
+			],
+			[
+				"Parking",
+				"ParkingSpaceEditView"
+			],
+			[
+				"parking_space",
+				"parking_space_form"
+			],
+			[
+				"Parkin",
+				"ParkingSpaceForm\tclass"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"buyer_",
+				"buyer_sotu\tstatement"
+			],
+			[
+				"buye",
+				"buyer_1\tstatement"
+			],
+			[
+				"buyer",
+				"buyer_2\tstatement"
+			],
+			[
+				"reser",
+				"reservation_document_form"
+			],
+			[
+				"res",
+				"reservation_price"
+			],
+			[
+				"first",
+				"firstBillModal"
+			],
+			[
+				"calc",
+				"calculate_amounts"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"perc",
+				"percentage_1"
+			],
+			[
+				"firstB",
+				"firstBillModalLabel"
+			],
+			[
+				"erp",
+				"erpprofile"
+			],
+			[
+				"percentag",
+				"percentage"
+			],
+			[
+				"percenta",
+				"percentage_"
+			],
+			[
+				"perce",
+				"percentage_difference"
+			],
+			[
+				"check",
+				"check_total"
+			],
+			[
+				"amount_",
+				"amount_input_"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"left",
+				"leftover"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"buy",
+				"buyer_1"
+			],
+			[
+				"TyöAr",
+				"Työarvio"
+			],
+			[
+				"get",
+				"getcontext"
+			],
+			[
+				"total_tax",
+				"total_tax_dec\tstatement"
+			],
+			[
+				"totl",
+				"total_tax_int\tstatement"
+			],
+			[
+				"debt_ta",
+				"debt_tax\tstatement"
+			],
+			[
+				"yhtiolai",
+				"yhtiolaina_int\tstatement"
+			],
+			[
+				"debt_tax",
+				"debt_tax_dec\tstatement"
+			],
+			[
+				"debt_tax_",
+				"debt_tax_int\tstatement"
+			],
+			[
+				"tax_",
+				"tax_dec"
+			],
+			[
+				"sellin",
+				"selling_price"
+			],
+			[
+				"selling_r",
+				"selling_price_int\tstatement"
+			],
+			[
+				"selle",
+				"selling_price"
+			],
+			[
+				"sell",
+				"selling_price_dec\tstatement"
+			],
+			[
+				"selling_",
+				"selling_price_dec\tstatement"
+			],
+			[
+				"selling",
+				"selling_price_int\tstatement"
+			],
+			[
+				"as_",
+				"as_oy_vat_number"
+			],
+			[
+				"attac",
+				"attached_file\tstatement"
+			],
+			[
+				"page_",
+				"page_end\tstatement"
+			],
+			[
+				"apart",
+				"apartments_per_page\tstatement"
+			],
+			[
+				"apar",
+				"apartments_per_page\tstatement"
+			],
+			[
+				"apartm",
+				"apartments_per_page\tstatement"
+			],
+			[
+				"attach",
+				"attached_file"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"get_",
+				"get_all_files"
+			],
+			[
+				"getwi",
+				"love.graphics.getWidth"
+			],
+			[
+				"geth",
+				"love.window.getHeight"
+			],
+			[
+				"lovepo",
+				"love.graphics.polygon"
+			],
+			[
+				"current",
+				"current_length"
+			],
+			[
+				"push",
+				"love.graphics.push"
+			],
+			[
+				"lovepont",
+				"love.graphics.point"
+			],
+			[
+				"draw_tile_",
+				"draw_tile_centers"
+			],
+			[
+				"lovepoly",
+				"love.graphics.polygon"
+			],
+			[
+				"contne",
+				"content_for"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"collision",
+				"collision_vector"
+			],
+			[
+				"line",
+				"love.graphics.line"
+			],
+			[
+				"colli",
+				"collision_vector"
+			],
+			[
+				"collisi",
+				"collision_debug_system"
+			],
+			[
+				"collision_",
+				"collision_debug_system"
+			],
+			[
+				"coll",
+				"collides"
+			],
+			[
+				"coldata",
+				"coldata"
+			],
+			[
+				"emote",
+				"emote_delay"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 7885,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shader.lua",
+			"settings":
+			{
+				"buffer_size": 1049,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "res/item_icons.lua",
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conf.lua",
+			"settings":
+			{
+				"buffer_size": 4046,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "entities/player.lua",
+			"settings":
+			{
+				"buffer_size": 3604,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "body.lua",
+			"settings":
+			{
+				"buffer_size": 959,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "physics.lua",
+			"settings":
+			{
+				"buffer_size": 2143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spritesheet.lua",
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vector.lua",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tilemap.lua",
+			"settings":
+			{
+				"buffer_size": 7771,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "worldgen/world_1.lua",
+			"settings":
+			{
+				"buffer_size": 1630,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "res/tiles.lua",
+			"settings":
+			{
+				"buffer_size": 313,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 153.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"diff",
+				"Git: Diff Tool All"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"colse",
+				"Project: Close"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"subli",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"vmenu",
+				"View: Toggle Menu"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/feikki/OneDrive/Tiedostot/GitHub/terraario",
+		"/C/Users/feikki/OneDrive/Tiedostot/GitHub/terraario/res",
+		"/C/Users/feikki/OneDrive/Tiedostot/GitHub/terraario/worldgen"
+	],
+	"file_history":
+	[
+		"/C/Users/feikki/OneDrive/Tiedostot/GitHub/terraario/res/players.lua",
+		"/C/Users/feikki/OneDrive/Tiedostot/GitHub/terraario/README.md",
+		"/E/work/git/asset_flip_defense/vanha/utils.lua",
+		"/E/work/git/seppa/util.lua",
+		"/C/Users/feikki/Downloads/FTB+Presents+Direwolf20+1.12-1.12.2-2.3.0-Server/settings.bat",
+		"/C/Users/feikki/AppData/Local/Temp/Rar$DIa0.121/manifest.json",
+		"/C/Users/feikki/Downloads/FTBPresentsDirewolf20110-1.12.1-1.10.2/manifest.json",
+		"/C/Users/feikki/OneDrive/Tiedostot/killswitch_rekry",
+		"/E/work/git/cyberpunk/engine/init.lua",
+		"/E/work/git/cyberpunk/game/gamestates/playstate.lua",
+		"/E/work/git/cyberpunk/engine/skeletal/actor.lua",
+		"/E/work/git/cyberpunk/engine/skeletal/skin.lua",
+		"/E/work/git/cyberpunk/engine/skeletal/animation.lua",
+		"/E/work/git/kaukokiito/Keraily_1/RepRahtikirja.rdlc",
+		"/E/work/git/cyberpunk/conf.lua",
+		"/E/work/git/cyberpunk/main.lua",
+		"/E/work/git/cyberpunk/engine/skeletal/init.lua",
+		"/E/work/git/cyberpunk/engine/skeletal/skeleton.lua",
+		"/C/Users/feikki/Documents/cloudconf.yaml",
+		"/E/work/git/gitkraken_rsa.pub",
+		"/E/work/git/kaukokiito/Keraily_1/RepKerailylista.rdlc",
+		"/E/work/git/kaukokiito/Keraily_1/RepPickingList.rdlc",
+		"/E/feikki/Documents/email spam/20170327-JYSK_ Valitut voittajat-9.html",
+		"/E/feikki/Documents/email spam/Aatu sinun ei tarvitse maksaa polttoaineestasi seuraavan kuuden kuukauden aikana._tiedostot/themedata.thmx",
+		"/E/feikki/Documents/email spam/Vertaislaina antaa korkoedun  katso oma lainakorko (2).msg",
+		"/C/Users/feikki/AppData/Roaming/Sublime Text 3/Installed Packages/Lua Love/LuaLove.sublime-build",
+		"/E/work/git/cyberpunk/engine/loader.lua",
+		"/E/work/git/cyberpunk/README.md",
+		"/E/work/git/cyberpunk/game/resources/maps/offices.lua",
+		"/E/work/git/cyberpunk/engine/tools/navmesher/outfile.lua",
+		"/E/work/git/cyberpunk/engine/tools/navmesher/main.lua",
+		"/E/work/git/cyberpunk/engine/thirdparty/hump/camera.lua",
+		"/home/feikki/love/cyberpunk/engine/tools/navmesher/out_test.lua",
+		"/home/feikki/love/cyberpunk/game/resources/maps/offices.lua",
+		"/home/feikki/love/cyberpunk/engine/tools/navmesher/main.lua",
+		"/home/feikki/love/cyberpunk/engine/init.lua",
+		"/home/feikki/love/cyberpunk/game/init.lua",
+		"/home/feikki/love/cyberpunk/game/gamestates/playstate.lua",
+		"/home/feikki/love/cyberpunk/engine/tools/padder/main.lua",
+		"/home/feikki/love/cyberpunk/conf.lua",
+		"/home/feikki/love/cyberpunk/engine/thirdparty/sti/init.lua",
+		"/home/feikki/love/cyberpunk/engine/thirdparty/sti/plugins/bump.lua",
+		"/home/feikki/love/cyberpunk/engine/ecs.lua",
+		"/home/feikki/love/cyberpunk/engine/game.lua",
+		"/home/feikki/love/cyberpunk/game/resources/font.bdf",
+		"/home/feikki/love/cyberpunk/cyberpunk.sublime-project",
+		"/home/feikki/tyot/lehto/base/views.py",
+		"/home/feikki/tyot/lehto/api/urls.py",
+		"/home/feikki/tyot/lehto/optimi_erp/settings/base.py",
+		"/home/feikki/tyot/lehto/optimi_erp/settings/local.py",
+		"/home/feikki/tyot/lehto/apartment/views.py",
+		"/home/feikki/tyot/lehto/base/templates/apartment/parking_space_detail.html",
+		"/home/feikki/tyot/lehto/apartment/models.py",
+		"/home/feikki/tyot/lehto/apartment/urls.py",
+		"/home/feikki/tyot/lehto/base/templates/report/index.html",
+		"/home/feikki/tyot/lehto/report/views.py",
+		"/home/feikki/tyot/lehto/base/templates/apartment/edit_client.html",
+		"/home/feikki/tyot/lehto/base/templates/apartment/add_queue_client.html",
+		"/home/feikki/tyot/lehto/base/templates/apartment/new_client.html",
+		"/home/feikki/tyot/lehto/api/views.py",
+		"/home/feikki/tyot/lehto/base/templates/_layouts/new_base.html",
+		"/home/feikki/tyot/lehto/.git/rebase-apply/patch",
+		"/home/feikki/tyot/lehto/apartment/forms.py",
+		"/home/feikki/tyot/lehto/base/templates/apartment/parking_space_new.html",
+		"/home/feikki/tyot/lehto/base/templates/apartment/parking_space_index.html",
+		"/home/feikki/tyot/lehto/project/models.py",
+		"/home/feikki/tyot/lehto/base/templates/apartment/detail.html",
+		"/home/feikki/tyot/lehto/base/templates/document/index.html",
+		"/home/feikki/tyot/lehto/base/templates/apartment/parking_space_index.htm",
+		"/home/feikki/tyot/lehto/base/urls.py",
+		"/home/feikki/tyot/lehto/document/views.py",
+		"/home/feikki/tyot/lehto/README.md",
+		"/home/feikki/tyot/lehto/base/static/css/custom.css",
+		"/home/feikki/liukuma",
+		"/home/feikki/tyot/lehto/base/templates/project/edit.html",
+		"/home/feikki/tyot/lehto/base/templates/user/edit_self.html",
+		"/home/feikki/tyot/lehto/rest_api/models.py",
+		"/home/feikki/tyot/lehto/base/templates/apartment/edit.html",
+		"/home/feikki/tyot/lehto/base/templates/apartment/new.html",
+		"/home/feikki/tyot/lehto/base/forms.py",
+		"/home/feikki/tyot/lehto/base/templates/user/edit.html",
+		"/home/feikki/tyot/lehto/document/models.py",
+		"/home/feikki/tyot/lehto/base/templates/emails/file_added_notification.tpl",
+		"/home/feikki/tyot/lehto/base/templates/export/pdf_pricelist.html",
+		"/home/feikki/tyot/lehto/document/forms.py",
+		"/home/feikki/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/feikki/tyot/lehto/document/apps.py",
+		"/home/feikki/tyot/lehto/base/templates/project/new.html",
+		"/home/feikki/tyot/lehto/task_management/templatetags/poll_extras.py",
+		"/home/feikki/tyot/lehto/document/urls.py",
+		"/home/feikki/tyot/lehto/base/templates/apartment/index.html",
+		"/home/feikki/tyot/lehto/base/templates/base/login.html",
+		"/home/feikki/tyot/lehto/base/templates/_layouts/boostrap_input.html",
+		"/home/feikki/.ssh/id_rsa.pub",
+		"/home/feikki/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/feikki/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/feikki/tyot/lehto/lehto.sublime-project",
+		"/home/feikki/love/towerdefence/main.moon",
+		"/home/feikki/love/hexagonmap/main.lua",
+		"/home/feikki/love/hexagonmap/main.moon",
+		"/home/feikki/PlayOnLinux's virtual drives/Steam/drive_c/Program Files/Steam/steam_with_proxy.bat",
+		"/home/feikki/love/hexagonmap/hexagonmap.sublime-project",
+		"/home/feikki/rodeoNET/static/style.css",
+		"/home/feikki/rodeoNET/web.moon",
+		"/home/feikki/rodeoNET/views/login.moon",
+		"/home/feikki/rodeoNET/bootstrap_layout.moon",
+		"/home/feikki/rodeoNET/views/database_page.moon",
+		"/home/feikki/rodeoNET/applications/admin/models.moon",
+		"/home/feikki/rodeoNET/models.moon",
+		"/home/feikki/rodeoNET/config.moon",
+		"/home/feikki/Desktop/Hacknet.v3.011/README.txt",
+		"/home/feikki/rodeoNET/applications/admin/init.moon",
+		"/home/feikki/rodeoNET/views/admin_new_user.moon",
+		"/home/feikki/rodeoNET/views/admin_list_users.moon",
+		"/home/feikki/rodeoNET/nginx.conf",
+		"/home/feikki/rodeoNET/applications/admin/views/list_users.moon",
+		"/home/feikki/rodeoNET/applications/admin/views/init.moon",
+		"/home/feikki/rodeoNET/applications/admin/views.moon",
+		"/home/feikki/Desktop/Hearthstone.desktop",
+		"/home/feikki/rodeoNET/views/static_page.moon",
+		"/home/feikki/rodeoNET/migrations.moon",
+		"/home/feikki/rodeoNET/schemas.moon",
+		"/home/feikki/UnrealEngine/Engine/Binaries/Linux/crashinfo--pid-7549-00091AC03A0C14150009013A1740CF6A/diagnostics.txt",
+		"/home/feikki/rodeoNET/rodeoNET.sublime-project",
+		"/home/feikki/.config/sublime-text-3/Packages/Moonscripty/Moonscript.sublime-settings",
+		"/home/feikki/love/love-rpg-engine/engine/ecs/systems/ai_system.lua",
+		"/home/feikki/love/love-rpg-engine/engine/ecs/systems/collision_system.lua",
+		"/home/feikki/love/love-rpg-engine/game/gamestates/playstate.lua"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".body",
+			"e1",
+			"e.ge",
+			"player_sheet",
+			"player_body",
+			"self",
+			"AI",
+			"fuzzy",
+			"line(",
+			"path",
+			"debug",
+			"noob",
+			"drawVision",
+			"fuzzy",
+			"splatter",
+			"map",
+			"neekeri",
+			"Skin",
+			"Skeleton",
+			"Actor",
+			"'./engine/thirdparty/",
+			"cos",
+			"collidable",
+			"nav",
+			"obj",
+			"table.insert",
+			"e",
+			"drawVision",
+			"bullet",
+			"BulletRenderingSystem",
+			"BulletSystem",
+			"player.gun.cooldown",
+			"BulletSystem",
+			"dir",
+			"colInfo.item",
+			"linear",
+			"ww",
+			"player.viewDistance",
+			"0.5",
+			"8",
+			"16",
+			"object.gid",
+			"door",
+			"self",
+			"player",
+			"sprite",
+			"print",
+			"table.insert(path, {edgeX, edgeY})",
+			"path",
+			"visited",
+			"drawobjectlayer",
+			"obj",
+			"16",
+			"x",
+			"vector",
+			"timer",
+			"gamestate",
+			"rest_framework_docs",
+			"ErpProfile",
+			"profile",
+			"transfertax",
+			"today",
+			"debt",
+			"apartment",
+			"new_base.html",
+			"buyer=True",
+			"clientnew",
+			"today",
+			"apartment",
+			"apartement",
+			"POST",
+			"apartment",
+			"kauppakirja",
+			"sale",
+			"saledoc",
+			"objects",
+			"Apartment",
+			"apartment",
+			"clientvi",
+			"clientnew",
+			"client",
+			"apartment",
+			"Apartment",
+			"apartment",
+			"copy",
+			"apartment",
+			"Asunnon",
+			"apartment_form",
+			"new_apartment",
+			"apartment_form",
+			"Apartment",
+			"apartment",
+			"detail",
+			"firstBillModalLabel",
+			"send_mail",
+			"checkbox",
+			"bill",
+			"transfertax",
+			"asiakas",
+			"name",
+			"today",
+			"advance",
+			"käsiraha",
+			"paatoimi",
+			"contract",
+			"varainsiirto",
+			"payment",
+			"as_oy_vat_number",
+			"ytunnus",
+			"sotu",
+			"building",
+			"Jono",
+			"flatten",
+			"pdftk",
+			"buildin",
+			"huuto",
+			"Muokkaa",
+			"alert",
+			"confirm-delete",
+			".confirm-delete",
+			"format_thousand",
+			"console.log",
+			"message",
+			"detail",
+			"list",
+			"debt",
+			"rest_framework",
+			"TextField"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 467,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shader.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1931,
+								"count": 78,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "res/item_icons.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "conf.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1088
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "entities/player.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 205,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 613.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "body.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								374
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "physics.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1354,
+								1354
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 151,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1458.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "spritesheet.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 40,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "vector.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "tilemap.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3558,
+								3558
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "worldgen/world_1.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1374,
+								1374
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "res/tiles.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 115.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 80.0
+	},
+	"pinned_build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"project": "terraario.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"skeleton",
+				"engine\\skeletal\\skeleton.lua"
+			],
+			[
+				"ac",
+				"engine\\skeletal\\actor.lua"
+			],
+			[
+				"out",
+				"engine/tools/navmesher/out_test.lua"
+			],
+			[
+				"off",
+				"game/resources/maps/offices.lua"
+			],
+			[
+				"office",
+				"game/resources/maps/offices.lua"
+			],
+			[
+				"play",
+				"game/gamestates/playstate.lua"
+			],
+			[
+				"pla",
+				"game/gamestates/playstate.lua"
+			],
+			[
+				"conf",
+				"conf.lua"
+			],
+			[
+				"",
+				"game/resources/maps/offices.lua"
+			],
+			[
+				"offi",
+				"game/resources/maps/offices.lua"
+			],
+			[
+				"offic",
+				"game/resources/maps/offices.lua"
+			],
+			[
+				"engine",
+				"engine/init.lua"
+			],
+			[
+				"offices",
+				"game/resources/maps/offices.lua"
+			],
+			[
+				"engin",
+				"engine/init.lua"
+			],
+			[
+				"main",
+				"main.lua"
+			],
+			[
+				"view",
+				"apartment/views.py"
+			],
+			[
+				"apartments",
+				"apartment/views.py"
+			],
+			[
+				"docuview",
+				"document/views.py"
+			],
+			[
+				"document/app",
+				"document/apps.py"
+			],
+			[
+				"co",
+				"engine/ecs/systems/collision_system.lua"
+			],
+			[
+				"tile",
+				"engine/tilemap.lua"
+			],
+			[
+				"coll",
+				"engine/ecs/systems/collision_system.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\work\\git\\rust_cyberpunk\\rust_cyberpunk.sublime-project"
+			],
+			[
+				"lehto",
+				"~/tyot/lehto/lehto.sublime-project"
+			],
+			[
+				"mmo",
+				"~/love/mmorpg/mmorpg.sublime-project"
+			],
+			[
+				"mmor",
+				"~/love/mmorpg/mmorpg.sublime-project"
+			],
+			[
+				"var",
+				"~/VarjoBot/VarjoBot.sublime-project"
+			],
+			[
+				"tassu",
+				"~/tassu.pw/tassupw.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
